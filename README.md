@@ -1,4 +1,4 @@
-# Image Captioning project for SC4001
+# Image Captioning using CNN and LSTM for SC4001
 
 ## Description
 hi
