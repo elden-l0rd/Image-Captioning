@@ -112,3 +112,6 @@ venv.bak/
 .mypy_cache/
 
 /flickr30k_images/flickr30k_images/
+*.keras
+*.h5
+/fe_dict_save
