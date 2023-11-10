@@ -115,3 +115,4 @@ venv.bak/
 /flickr8k_images/Images/
 *.keras
 /fe_dict_save
+*.docx
