@@ -7,6 +7,11 @@ Our project is motivated by the fundamental human desire to make sense of the wo
 Image dataset is too large to be uploaded into GitHub.
 1. Obtain the image dataset from Kaggle: [Flickr Image dataset](https://www.kaggle.com/datasets/adityajn105/flickr8k). _Last accessed: 9/11/2023._
 2. Place the image folder inside flickr8k_images folder
+
+## Instructions
+1. *main.ipynb* is the main file to run the project.
+2. *fe_dict_save* folder contains the feature dictionary file after image extraction. So we need not extract the features again
+3. *models* folder contains the trained models
    
 > **Note**
-> The CSV file might be corrupted, so you may use the one in this repo instead. flickr8k_images > captions.txt
+> The TXT file might be corrupted, so you may use the one in this repo instead. flickr8k_images > captions.txt
